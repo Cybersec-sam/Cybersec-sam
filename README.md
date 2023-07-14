@@ -1,5 +1,5 @@
 <h1>Hi, I'm Samuel! <br/>
-  <a href="https://www.linkedin.com/in/joshmadakor/">IT Security/Cybersecurity Professional</a>
+  <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
