@@ -1,14 +1,15 @@
 <h1>Hi, I'm Samuel! <br/>
-  <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+  <a href="https://www.linkedin.com/in/samuel-adeyemo-491514282/">Cybersecurity and IT Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab </b>
-  
+- <b> <a href="https://medium.com/@samuel_ad/setting-up-basic-home-lab-running-active-directory-add-users-with-powershell-8b16a3ad8df2"> Active Directory Home Lab </a> </b>
+- <b> <a href="https://medium.com/@samuel_ad/defending-against-cyber-threats-a-deep-dive-into-effective-vulnerability-management-bee65a7a7b9d"> Vulnerability Management </a> </b>
 
 
 <h2>📺 Certifications </h2>
 Comptia Security+
+<p> ISC2 CC </p>
 
 
 <h2> 🤳 Connect with me:</h2>
