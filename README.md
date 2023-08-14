@@ -5,11 +5,12 @@
 
 - <b> <a href="https://medium.com/@samuel_ad/setting-up-basic-home-lab-running-active-directory-add-users-with-powershell-8b16a3ad8df2"> Active Directory Home Lab </a> </b>
 - <b> <a href="https://medium.com/@samuel_ad/defending-against-cyber-threats-a-deep-dive-into-effective-vulnerability-management-bee65a7a7b9d"> Vulnerability Management </a> </b>
-
+- <b> <a href="https://medium.com/@samuel_ad/packet-sniffing-essentials-exploring-packet-capture-and-analysis-using-tcpdump-and-wireshark-d473196a5ace"> Packet Capture and Analysis using TCPDump and Wireshark </b>
 
 <h2>📺 Certifications </h2>
-Comptia Security+
-<p> ISC2 CC </p>
+<p> <a href="https://drive.google.com/file/d/175oTxqTddiU3EgXhXxyqzhyU_oVxL8OE/view?usp=sharing"> Comptia Security+ </a> </p>
+
+<p> <a href="https://drive.google.com/file/d/1BXYT7XiJZ_MUd_bzdwctXRLrxDUMXJxd/view?usp=sharing"> ISC2 CC </a> </p>
 
 
 <h2> 🤳 Connect with me:</h2>
